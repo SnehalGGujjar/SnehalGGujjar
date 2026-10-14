@@ -4,11 +4,7 @@
 
 <h3 align="center">Computer Science Graduate | Aspiring Software Developer | AI & Full-Stack Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/SnehalGGujjar">
-    <img src="https://komarev.com/ghpvc/?username=SnehalGGujjar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation" />
