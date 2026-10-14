@@ -1,4 +1,20 @@
-# 👋 Hello, World! I'm Snehal Gujjar
+
+<h1 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    👋 Hello, World! I'm Snehal |
+    नमस्ते दुनिया! मैं स्नेहल हूँ |
+    ನಮಸ್ಕಾರ ಜಗತ್ತೇ! ನಾನು ಸ್ನೇಹಲ್ |
+    Bonjour le monde ! Je suis Snehal |
+    ¡Hola, mundo! Soy Snehal |
+    Γεια σου, κόσμε! Είμαι η Snehal |
+    Hallo Welt! Ich bin Snehal |
+    Ciao, mondo! Sono Snehal |
+    こんにちは、世界！スネハルです |
+    你好，世界！我是 Snehal |
+    مرحبًا يا عالم! أنا سنيहال
+  </marquee>
+</h1>
+
 
 <h1 align="center">🚀 Snehal Gujjar</h1>
 
