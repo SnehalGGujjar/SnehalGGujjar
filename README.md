@@ -83,18 +83,13 @@ A project that generates social-media caption ideas from uploaded images.
 ## 📫 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/snehal-gujjar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:snehalgujjar17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://github.com/SnehalGGujjar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn badge when you have your profile URL -->
-</p>
-
----
-
-<p align="center">
-  <i>🌱 Learning every day. Building with purpose. Growing through code.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=100&section=footer" alt="Decorative wave footer" />
 </p>
