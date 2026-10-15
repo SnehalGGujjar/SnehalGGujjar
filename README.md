@@ -8,7 +8,7 @@
 
 <h1 align="center">🚀 Snehal Gujjar</h1>
 
-<h3 align="center">Computer Science Graduate | Aspiring Software Developer | AI & Full-Stack Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Software Developer | AI & Full-Stack Enthusiast</h3>
 
 
 
